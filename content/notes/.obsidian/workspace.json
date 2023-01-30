@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "79f3421f8ecfd0cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is ETOC?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is ETOC?.md",
+                "file": "Welcome to \"In Tenant Struggle\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is ETOC?.md",
+                "file": "Welcome to \"In Tenant Struggle\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is ETOC?.md"
+                "file": "Welcome to \"In Tenant Struggle\".md"
               }
             }
           }
@@ -159,9 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79f3421f8ecfd0cc",
+  "active": "c567d3025a5d2a26",
   "lastOpenFiles": [
-    "Welcome to \"In Tenant Struggle\".md",
-    "What is ETOC?.md"
+    "What is ETOC?.md",
+    "Welcome to \"In Tenant Struggle\".md"
   ]
 }
