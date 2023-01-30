@@ -1,4 +1,6 @@
-{{What is ETOC?}}
+---
+title: "What is ETOC?"
+---
 
 ETOC stands for Emergency Tenant Organizing Committee. The purpose of ETOC is to create new autonomous tenant unions.
 

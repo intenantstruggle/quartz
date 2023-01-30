@@ -1,4 +1,6 @@
-{{Welcome to "In Tenant Struggle"}}
+---
+title: "Welcome to "In Tenant Struggle"
+---
 
 In 2022, the Housing Justice Commission began a new project called [ETOC](obsidian://open?vault=intenantstruggle&file=What%20is%20ETOC%3F), the Emergency Tenant Organizing Committee. Through this new project, we are facing many novel challenges as we support the growth of the US tenants movement.
 

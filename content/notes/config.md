@@ -12,7 +12,7 @@ The majority of configuration can be found under `data/config.yaml`. An annotate
 
 ```yaml {title="data/config.yaml"}
 # The name to display in the footer
-name: Jacky Zhao
+name: "In Tenant Struggle: Informal notes by Steering Committee members of the DSA Housing Justice Committee"
 
 # whether to globally show the table of contents on each page
 # this can be turned off on a per-page basis by adding this to the
@@ -50,12 +50,12 @@ enableFooter: true
 enableContextualBacklinks: true
 
 # whether to show a section of recent notes on the home page
-enableRecentNotes: false
+enableRecentNotes: true
 
 # whether to display an 'edit' button next to the last edited field
 # that links to github
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/intenantstruggle/quartz/tree/hugo/content
 
 # whether to render mermaid diagrams
 enableMermaid: true
@@ -80,9 +80,11 @@ page_title:
 # links to show in the footer
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/dsa_housing
+  - link_name: DSA HJC Linktree
+    link: https://linktr.ee/dsahjc
+  - link_name: Join ETOC
+    link: https://actionnetwork.org/forms/join-the-emergency-tenant-organizing-committee/
 ```
 
 ### Code Block Titles
