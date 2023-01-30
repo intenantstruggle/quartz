@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to \"In Tenant Struggle\".md",
+                "file": "What is ETOC?.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to \"In Tenant Struggle\".md",
+                "file": "What is ETOC?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to \"In Tenant Struggle\".md",
+                "file": "What is ETOC?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to \"In Tenant Struggle\".md"
+                "file": "What is ETOC?.md"
               }
             }
           }
@@ -161,7 +161,7 @@
   },
   "active": "79f3421f8ecfd0cc",
   "lastOpenFiles": [
-    "What is ETOC?.md",
-    "Welcome to \"In Tenant Struggle\".md"
+    "Welcome to \"In Tenant Struggle\".md",
+    "What is ETOC?.md"
   ]
 }
