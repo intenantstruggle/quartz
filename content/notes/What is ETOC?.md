@@ -2,6 +2,8 @@
 title: "What is ETOC?"
 ---
 
+{{What is ETOC?}}
+
 ETOC stands for Emergency Tenant Organizing Committee. The purpose of ETOC is to create new autonomous tenant unions.
 
 ETOC is part of the Housing Justice Commision (HJC), which is part of [DSA](https://www.dsausa.org/). The HJC implements [Resolution 21](https://convention2021.dsausa.org/2021-dsa-convention-resolutions/#P1U), which was voted on at a recent DSA Convention.
